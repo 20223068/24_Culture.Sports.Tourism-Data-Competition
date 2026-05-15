@@ -57,7 +57,6 @@
 ### 3. Clustering (K-Means)
 지역별 문화활동 특성을 기반으로 군집화 수행
 
-#### Cluster result
 
 | Cluster | 특징 |
 |--------|------|
